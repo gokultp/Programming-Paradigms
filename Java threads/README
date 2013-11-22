@@ -1,0 +1,8 @@
+/**To tompile these codes you have to install openjdk6 or greater
+  
+  * To comile type javac <progname.java>
+  * To execute type java <progname>
+  * <progname> must be the public class name
+  
+  **/
+
