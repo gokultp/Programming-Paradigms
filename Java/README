@@ -1,0 +1,7 @@
+/**To to cmpile these codes you have to install openjdk6 or greater
+  
+  * To compile type javac <progname.java>
+  * To execute type java <progname>
+  * <progname> must be the public class name
+  
+  **/
